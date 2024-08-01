@@ -1,4 +1,4 @@
-# Hi there, I'm Shayan! 👋
+# Hi there, I'm Omega 05! 👋
 
 ## About Me
 
