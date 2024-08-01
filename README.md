@@ -22,7 +22,7 @@ Here are some of the technologies and tools I work with:
 
 Feel free to reach out to me:
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/omega_0day)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/Omega0day)
 
 ## Stats
 
